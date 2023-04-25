@@ -4,3 +4,5 @@
 4. enable api cloud run, container registry
 5. service account set roles
 6. manage key
+
+Complte the CICD
